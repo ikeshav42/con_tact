@@ -1,1 +1,2 @@
-# con_tact
+<h1>Simple contact us page
+  basic js stuff
